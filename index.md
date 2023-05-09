@@ -11,8 +11,5 @@ title: "Home"
 | Language and Computer Labs 202 |
 |-|
 | Department of Mathematics |
-|-|
 | North Carolina State University |
-|-|
 | Email: jedarges@ncsu.edu |
-|-|
