@@ -3,7 +3,7 @@ layout: page
 title: "Home"
 ---
 
-![image](assets/FGCS7881-1233x1536.jpg)
+<img src="assets/FGCS7881-1233x1536.jpg" alt="pic" width="200"/>
 
 I am a graduate student in the department of mathematics at North Carolina State University.
 
