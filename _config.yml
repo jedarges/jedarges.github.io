@@ -18,9 +18,9 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home"}
    - {title: "CV", file: "README.md"}
-  - {title: "Publications and Notes", file: README.md"}
-    - {title: "Research", file: README.md"}
-    - {title: "Codes", file: README.md"}
+  - {title: "Publications and Notes", file: "README.md"}
+    - {title: "Research", file: "README.md"}
+    - {title: "Codes", file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:jedarges@ncsu.edu"}
