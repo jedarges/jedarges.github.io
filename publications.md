@@ -8,7 +8,13 @@ title: Publications and Notes
 
 # Presentations
 
-- 
+- Identifying important prior hyperparameters in Bayesian inverse problems with efficient variance-based global sensitivity analysis. North Carolina State University, Raleigh, NC, USA. Applied Mathematics Graduate Student Seminar. April 2023. **[[Link](/assets/sabayes_pres.pdf)]**
+- Extreme learning machines for variance-based global sensitivity analysis. RAI Amsterdam Convention Center, Amsterdam, Netherlands.
+SIAM Conference on Computational Science and Engineering. March 2023. **[[Link](/assets/amsterdam_pres.pdf)]**
+- Extreme learning machines for variance-based global sensitivity analysis. Walter E. Washington Convention Center, Washington, D.C., USA.
+Joint Statistical Meetings. August 2022. **[[Link](/assets/dc_pres.pdf)]**
+- Extreme learning machines for variance-based global sensitivity analysis. Florida State University, Tallahassee, FL, USA.
+Conference on Sensitivity Analysis of Model Output (SAMO). March 2022. **[[Link](/assets/fsu_pres.pdf)]**
 
 # Research Notes
 
