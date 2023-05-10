@@ -22,6 +22,7 @@ Conference on Sensitivity Analysis of Model Output (SAMO). March 2022. **[[Link]
 - Regularization of ELM with analytically-formulated Sobol' indices
 - Measuring the additivity of functions with variance-based global sensitivity analysis. 2022. **[[Link](/assets/additivity.pdf)]**
 - On the approximation of higher order Sobol' indices with ELM surrogates. 2021. **[[Link](/assets/elm_higher_order.pdf)]**
+- On the approximation of higher order Sobol' indices with ELM surrogates. 2021. **[[Link](/assets/elm_higher_order.pdf)]**
 - Global sensitivity analysis for optimization under uncertainty. 2020. **[[Link](/assets/gsa_ouu.pdf)]**
 - Classifying the winning player in Connect Four with machine learning. 2020. **[[Link](/assets/connect4.pdf)]**
 - Introduction to sub-Riemannian geometry. 2020. **[[Link](/assets/subriemannian.pdf)]**
