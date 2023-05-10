@@ -12,6 +12,8 @@ title: Publications and Notes
 
 # Research Notes
 
+- Methods for surrogate-assisted global sensitivity analysis
+- Regularization of ELM with analytically-formulated Sobol' indices
 - On the approximation of higher order Sobol' indices with ELM surrogates. 2021. **[[Link](/assets/elm_higher_order.pdf)]**
 - Some summation algorithms to reduce numerical imprecision. 2020.  **[[Link](/assets/summation_algorithms.pdf)]**
 - Global sensitivity analysis for stochastic optimization. 2020. **[[Link](/assets/gsa_stochastic_optimization.pdf)]**
