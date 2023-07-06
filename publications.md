@@ -12,7 +12,7 @@ title: Publications and Notes
 - Extreme learning machines for variance-based global sensitivity analysis. RAI Amsterdam Convention Center, Amsterdam, Netherlands.
 SIAM Conference on Computational Science and Engineering. March 2023. **[[Link](/assets/amsterdam_pres.pdf)]**
 - Extreme learning machines for variance-based global sensitivity analysis. Walter E. Washington Convention Center, Washington, D.C., USA.
-Joint Statistical Meetings. August 2022. **[[Link](/assets/dc_pres.pdf)]**
+Joint Statistical Meetings. August 2022. 
 - Extreme learning machines for variance-based global sensitivity analysis. Florida State University, Tallahassee, FL, USA.
 Conference on Sensitivity Analysis of Model Output (SAMO). March 2022. **[[Link](/assets/fsu_pres.pdf)]**
 
