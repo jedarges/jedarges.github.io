@@ -18,8 +18,6 @@ Conference on Sensitivity Analysis of Model Output (SAMO). March 2022. **[[Link]
 
 # Research Notes
 
-- Methods for surrogate-assisted global sensitivity analysis
-- Regularization of ELM with analytically-formulated Sobol' indices
 - Measuring the additivity of functions with variance-based global sensitivity analysis. 2022. **[[Link](/assets/additivity.pdf)]**
 - Uncertainty quantification for heat transfer in turbulent flow. 2021. **[[Link](/assets/db_uq.pdf)]**
 - On the approximation of higher order Sobol' indices with ELM surrogates. 2021. **[[Link](/assets/elm_higher_order.pdf)]**
