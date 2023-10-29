@@ -19,14 +19,14 @@ Conference on Sensitivity Analysis of Model Output (SAMO). March 2022. **[[Link]
 # Research Notes
 
 - Measuring the additivity of functions with variance-based global sensitivity analysis. 2022. **[[Link](/assets/additivity.pdf)]**
-- Uncertainty quantification for heat transfer in turbulent flow. 2021. **[[Link](/assets/db_uq.pdf)]**
 - On the approximation of higher order Sobol' indices with ELM surrogates. 2021. **[[Link](/assets/elm_higher_order.pdf)]**
 - Global sensitivity analysis for optimization under uncertainty. 2020. **[[Link](/assets/sa_ouu.pdf)]**
+
+
+# Course Notes and Projects
+- Uncertainty quantification for heat transfer in turbulent flow. 2021. **[[Link](/assets/db_uq.pdf)]**
 - Classifying the winning player in Connect Four with machine learning. 2020. **[[Link](/assets/connect4.pdf)]**
 - Introduction to sub-Riemannian geometry. 2020. **[[Link](/assets/subriemannian.pdf)]**
 - Riemannian structure on Lie groups. 2020. **[[Link](/assets/riemannian_lie.pdf)]**
-
-# Academic Notes
-- Notes on introductory abstract algebra. **[[Link](/assets/abstract_algebra.pdf)]**
 - Notes on functional analysis applications. **[[Link](/assets/func_analysis.pdf)]**
 - Notes on applications of Lie groups to differential equations. **[[Link](/assets/intro_lie_groups.pdf)]**
