@@ -3,9 +3,10 @@ layout: page
 title: Publications and Notes
 ---
 # Publications
-- John Darges, Alen Alexanderian, Pierre Gremaud. Variance-based sensitivity of Bayesian inverse problems to the prior distribution. In preparation. 2023. 
+- John Darges, Alen Alexanderian, Pierre Gremaud. Variance-based sensitivity of Bayesian inverse problems to the prior distribution. In preparation. 2023. **[[Link](https://arxiv.org/abs/2201.05586)]**
 - John Darges, Alen Alexanderian, Pierre Gremaud. Extreme learning machines for variance-based global sensitivity analysis. In review. 2022. **[[Link](https://arxiv.org/abs/2201.05586)]**
 
+https://arxiv.org/abs/2310.18488
 # Presentations
 
 - Variance-based sensitivity of Bayesian inverse problems to the prior distribution. North Carolina State University. Raleigh, NC, USA. Research Training Group. October 2023. **[[Link](/assets/sabayes_slides_rtg.pdf)]**
