@@ -7,7 +7,7 @@ title: Publications and Notes
 - John Darges, Alen Alexanderian, Pierre Gremaud. Extreme learning machines for variance-based global sensitivity analysis. In review. 2023. **[[Link](https://arxiv.org/abs/2201.05586)]**
 
 # Presentations
-
+- Randomized function approximation. North Carolina State University. Raleigh, NC, USA. Applied Mathematics Graduate Student Seminar. November 2023. **[[Link](/assets/rf_slides.pdf)]**
 - Variance-based sensitivity of Bayesian inverse problems to the prior distribution. North Carolina State University. Raleigh, NC, USA. Research Training Group. October 2023. **[[Link](/assets/sabayes_slides_rtg.pdf)]**
 - Identifying important prior hyperparameters in Bayesian inverse problems with efficient variance-based global sensitivity analysis. North Carolina State University, Raleigh, NC, USA. Applied Mathematics Graduate Student Seminar. April 2023. **[[Link](/assets/sabayes_pres.pdf)]**
 - Extreme learning machines for variance-based global sensitivity analysis. RAI Amsterdam Convention Center, Amsterdam, Netherlands.
