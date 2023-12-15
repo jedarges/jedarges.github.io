@@ -29,5 +29,3 @@ Conference on Sensitivity Analysis of Model Output (SAMO). March 2022. **[[Link]
 - Classifying the winning player in Connect Four with machine learning. 2020. **[[Link](/assets/connect4.pdf)]**
 - Introduction to sub-Riemannian geometry. 2020. **[[Link](/assets/subriemannian.pdf)]**
 - Riemannian structure on Lie groups. 2020. **[[Link](/assets/riemannian_lie.pdf)]**
-- Notes on functional analysis applications. **[[Link](/assets/func_analysis.pdf)]**
-- Notes on applications of Lie groups to differential equations. **[[Link](/assets/intro_lie_groups.pdf)]**
