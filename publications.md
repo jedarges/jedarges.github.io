@@ -3,8 +3,10 @@ layout: page
 title: Publications and Notes
 ---
 # Publications
-- John Darges, Alen Alexanderian, Pierre Gremaud. Variance-based sensitivity of Bayesian inverse problems to the prior distribution. In review. 2023. **[[Link](https://arxiv.org/abs/2310.18488)]**
-- John Darges, Alen Alexanderian, Pierre Gremaud. Extreme learning machines for variance-based global sensitivity analysis. In review. 2023. **[[Link](https://arxiv.org/abs/2201.05586)]**
+- John Darges, Alen Alexanderian, Pierre Gremaud. Variance-based sensitivity of Bayesian inverse problems to the prior distribution. International Journal for Uncertainty Quantification. 2024. 
+- John Darges, Alen Alexanderian, Pierre Gremaud. Extreme learning machines for variance-based global sensitivity analysis. International Journal for Uncertainty Quantification. 2024. **[[Link](https://www.dl.begellhouse.com/journals/52034eb04b657aea,20894a8061d92d69,041085404ba95c60.html)]**
+- Jun Hu, Zhenkun Guo, Peter E Mcwilliams, John E Darges, Daniel L Druffel, Andrew M Moran, Scott C Warren. 
+Band gap engineering in a 2D material for solar-to-chemical energy conversion. Nano Letters. 2016. **[[Link](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5b02895)]**
 
 # Presentations
 - Randomized function approximation. North Carolina State University. Raleigh, NC, USA. Applied Mathematics Graduate Student Seminar. November 2023. **[[Link](/assets/rf_slides.pdf)]**
