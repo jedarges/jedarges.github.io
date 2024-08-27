@@ -13,4 +13,4 @@ title: "Home"
 - Mathematics & Science Building E427
 - Department of Mathematics
 - Emory University
-- Email: jdarges<AT>emory<DOT>edu
+- Email: jdarges(AT)emory(DOT)edu
