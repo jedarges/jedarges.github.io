@@ -3,12 +3,15 @@ layout: page
 title: Publications and Notes
 ---
 # Publications
-- John Darges, Alen Alexanderian, Pierre Gremaud. Variance-based sensitivity of Bayesian inverse problems to the prior distribution. International Journal for Uncertainty Quantification. 2024. 
+- John Darges, Babak Maboudi Afkham, Matthias Chung. Neural Optimal Design of Experiment for Inverse Problems. Preprint. 2025. **[[Link](https://arxiv.org/pdf/2512.23763)]**
+- John Darges, Alen Alexanderian, Pierre Gremaud. Variance-based sensitivity of Bayesian inverse problems to the prior distribution. International Journal for Uncertainty Quantification. 2025. **[[Link](https://www.dl.begellhouse.com/journals/52034eb04b657aea,7d756a8451ff2381,4cfc94d24bab2058.html)]**
 - John Darges, Alen Alexanderian, Pierre Gremaud. Extreme learning machines for variance-based global sensitivity analysis. International Journal for Uncertainty Quantification. 2024. **[[Link](https://www.dl.begellhouse.com/journals/52034eb04b657aea,20894a8061d92d69,041085404ba95c60.html)]**
 - Jun Hu, Zhenkun Guo, Peter E Mcwilliams, John E Darges, Daniel L Druffel, Andrew M Moran, Scott C Warren. 
 Band gap engineering in a 2D material for solar-to-chemical energy conversion. Nano Letters. 2016. **[[Link](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5b02895)]**
 
 # Presentations
+- Weighting Inputs by Sensitivity in Random Feature Expansions. Vanderbilt University. Nashville, TN, USA. Shanks Conference: Constructive Functions. May 2025. **[[Link](/assets/shanks_slides.pdf)]**
+- Random feature expansions guided by input sensitivity. Emory University. Atlanta, GA, USA. CODES Seminar. March 2025. **[[Link](/assets/codes_slides.pdf)]**
 - Randomized function approximation. North Carolina State University. Raleigh, NC, USA. Applied Mathematics Graduate Student Seminar. November 2023. **[[Link](/assets/rf_slides.pdf)]**
 - Variance-based sensitivity of Bayesian inverse problems to the prior distribution. North Carolina State University. Raleigh, NC, USA. Research Training Group. October 2023. **[[Link](/assets/sabayes_slides_rtg.pdf)]**
 - Identifying important prior hyperparameters in Bayesian inverse problems with efficient variance-based global sensitivity analysis. North Carolina State University, Raleigh, NC, USA. Applied Mathematics Graduate Student Seminar. April 2023. **[[Link](/assets/sabayes_pres.pdf)]**
